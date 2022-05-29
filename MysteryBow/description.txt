@@ -1,0 +1,5 @@
+Adds a bow that can shoot any projectile in the game including modded projectiles. The damage and crafting recipe is also randomized.
+
+Warning: The projectiles have a small chance of damaging you, breaking blocks, and summoning bosses. DO NOT USE NEAR YOUR BASE! Some projectiles will stick around longer than others don't worry they will (probably) automatically disapear in 30 seconds.
+
+Otherwise go nuts

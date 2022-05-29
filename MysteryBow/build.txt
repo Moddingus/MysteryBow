@@ -1,0 +1,3 @@
+displayName = Mystery Bow Mod
+author = Max
+version = 0.1

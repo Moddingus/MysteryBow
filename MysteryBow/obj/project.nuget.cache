@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4v8slh4iWe8FiVgwwswvY/zrbvh1cNCHdDvEzNO9W7pRv02kKKgxQF9NzZVyhioJausNk0vP0K8300IE3+4rSw==",
+  "success": true,
+  "projectFilePath": "/Users/qwerty/Library/Application Support/Terraria/ModLoader/Mod Sources/MysteryBow/MysteryBow.csproj",
+  "expectedPackageFiles": [
+    "/Users/qwerty/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
